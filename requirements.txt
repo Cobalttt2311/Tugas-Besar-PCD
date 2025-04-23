@@ -1,0 +1,15 @@
+streamlit
+matplotlib
+seaborn
+numpy
+pandas
+opencv-python
+Pillow
+scikit-image
+mtcnn
+tensorflow
+tensorflow-addons
+deepface
+scikit-learn
+imbalanced-learn
+joblib
