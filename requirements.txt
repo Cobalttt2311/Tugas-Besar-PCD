@@ -7,7 +7,7 @@ opencv-python
 Pillow
 scikit-image
 mtcnn
-tensorflow
+tensorflow==2.9
 tensorflow-addons
 deepface
 scikit-learn
