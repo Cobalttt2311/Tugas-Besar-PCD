@@ -81,3 +81,10 @@ Aplikasi ini memungkinkan kamu melakukan deteksi wajah, ekstraksi fitur, dan kla
 
 Semoga aplikasi ini bermanfaat dan menyenangkan untuk digunakan! 😄  
 Jika ada pertanyaan, jangan ragu untuk menghubungi kami. 📬
+
+Penyusun : 
+1. Muammar Syahid Rahmallah (231511052)
+2. Nalendra Praja Bredtyopati Yudo (231511056)
+3. Nur Akmal (231511059)
+
+
